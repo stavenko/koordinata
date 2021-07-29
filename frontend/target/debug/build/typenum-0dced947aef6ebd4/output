@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/vstavenko/projects/koordinata/frontend/target/debug/build/typenum-0dced947aef6ebd4/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/vstavenko/projects/koordinata/frontend/target/debug/build/typenum-0dced947aef6ebd4/out/op.rs

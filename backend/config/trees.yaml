@@ -1,0 +1,15 @@
+spieces:
+  - name: oak
+    maturity_years: 5
+    fruit_name: acorn
+    fruit_amount: 500
+    fertility: 5
+    negative_tempreture_survival: 1
+    blossom_start_year_time: 0.125
+    ripening_start_year_time: 0.20
+    fall_start_year_time: 0.5
+    sleep_start_year_time: 0.70
+    max_size: 15
+    growth_speed: 1
+    
+

@@ -1,0 +1,59 @@
+# monthly_temp is started with tempratures in march
+dayly_tempreture_floating: 2
+zones:
+  - name: equatorial
+    monthly_temp:
+    - 27
+    - 27
+    - 27
+    - 27
+    - 27
+    - 27
+    - 27
+    - 27
+    - 27 
+    - 27
+    - 27
+    - 27
+  - name: tropical
+    monthly_temp:
+    - 22
+    - 27
+    - 31
+    - 32
+    - 34
+    - 33
+    - 30 
+    - 27
+    - 23
+    - 19
+    - 15
+    - 18
+  - name: moderate
+    monthly_temp:
+    - -4
+    - 5
+    - 12
+    - 17
+    - 20
+    - 18
+    - 14
+    - 9
+    - 4 
+    - -5 
+    - -10
+    - -7
+  - name: polar
+    monthly_temp:
+    - -26
+    - -21
+    - -11
+    - -2
+    - 2
+    - 4
+    - 1
+    - -8
+    - -17
+    - -25
+    -  -29
+    -  -29

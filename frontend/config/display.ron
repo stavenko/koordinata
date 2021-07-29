@@ -1,0 +1,4 @@
+(
+    title: "Pew!",
+    dimensions: Some((500, 500)),
+)

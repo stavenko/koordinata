@@ -1,0 +1,12 @@
+/Users/vstavenko/projects/koordinata/frontend/target/debug/deps/gif-fb6589bfb76f428d.rmeta: /Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/Users/vstavenko/projects/koordinata/frontend/target/debug/deps/libgif-fb6589bfb76f428d.rlib: /Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/Users/vstavenko/projects/koordinata/frontend/target/debug/deps/gif-fb6589bfb76f428d.d: /Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs:
+/Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs:
+/Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs:
+/Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs:
+/Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs:
+/Users/vstavenko/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs:
